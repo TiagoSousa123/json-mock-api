@@ -4,246 +4,108 @@
 		"notifications": "99",
 		"messages": "43"
 	},
-	"membership": [
+	"memberships": [
 		{
-			"id": 1,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
+			"active": true,
+			"agencies": [
+				{
+					"agencyId": 0,
+					"agencyName": "string",
+					"ig_handle": "string",
+					"ig_hashtag": "string"
+				},
+				{
+					"agencyId": 0,
+					"agencyName": "string",
+					"ig_handle": "string",
+					"ig_hashtag": "string"
+				}
+			],
+			"applicationComments": "auth0UserId",
+			"approvalComments": "string",
+			"approvalDate": "2021-02-13",
+			"creationDate": "2021-02-07",
+			"email": "",
+			"facebookToken": "sfr32r",
+			"igAccountType": "creator",
+			"igFollowersCount": "1.2k",
+			"igFollowsCount": "20k",
+			"igHandle": "jow",
+			"igMediaCount": "1.3k",
+			"igMediaTotalComments": "12.3k",
+			"igMediaTotalLikes": "2k",
+			"igUsername": "John",
+			"issueDate": "2021-02-08",
+			"issuerName": "some agency",
+			"issuerType": "AGENCY",
+			"lastModifiedDate": "2021-02-07",
+			"membershipId": 1,
+			"membershipModificationsId": 1,
+			"membershipStatus": "pending",
+			"name": "james",
+			"phoneNumber": "112333",
+			"portfolioUrl": "portfolio",
+			"profileId": 8,
+			"profilePictureUrl": "rqwrwq",
+			"profilesAgencies": 2,
+			"referralCodeId": "OK",
+			"tier": "NONE",
+			"tierSuggestionId": 1,
+			"trades": [{}],
+			"tradesId": 1,
+			"userId": "sms|601a986ad950a870a415e0a9",
+			"uses": 23
 		},
 		{
-			"id": 2,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 3,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 4,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 5,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 6,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 7,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 8,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 9,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 10,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 11,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
-		},
-		{
-			"id": 12,
-			"priority_number": "112233",
-			"submission_date": "12/05/2020",
-			"followers": "12000",
-			"agency": "agencyName",
-			"first_name": "Jon",
-			"last_name": "Doe",
-			"username": "Maxime_Nienow",
-			"email": "jon123@email.me",
-			"referral_code": "XD@EDF",
-			"ig_account": "IGCVB12",
-			"membership": ["Tier1", "Tier2", "Tier3"],
-			"ig_account_type": {
-				"type": "creator",
-				"followers": "12000",
-				"media_count": "20000",
-				"verified": true
-			}
+			"active": true,
+			"agencies": [
+				{
+					"agencyId": 0,
+					"agencyName": "string",
+					"ig_handle": "string",
+					"ig_hashtag": "string"
+				},
+				{
+					"agencyId": 0,
+					"agencyName": "string",
+					"ig_handle": "string",
+					"ig_hashtag": "string"
+				}
+			],
+			"applicationComments": "auth0UserId",
+			"approvalComments": "string",
+			"approvalDate": "2021-02-13",
+			"creationDate": "2021-02-07",
+			"email": "",
+			"facebookToken": "sfr32r",
+			"igAccountType": "creator",
+			"igFollowersCount": "1.2k",
+			"igFollowsCount": "20k",
+			"igHandle": "jo",
+			"igMediaCount": "1.3k",
+			"igMediaTotalComments": "12.3k",
+			"igMediaTotalLikes": "2k",
+			"igUsername": "John Doe",
+			"issueDate": "2021-02-08",
+			"issuerName": "some agency",
+			"issuerType": "AGENCY",
+			"lastModifiedDate": "2021-02-07",
+			"membershipId": 1,
+			"membershipModificationsId": 1,
+			"membershipStatus": "pending",
+			"name": "james",
+			"phoneNumber": "112333",
+			"portfolioUrl": "portfolio",
+			"profileId": 8,
+			"profilePictureUrl": "rqwrwq",
+			"profilesAgencies": 2,
+			"referralCodeId": "Not OK",
+			"tier": "NONE",
+			"tierSuggestionId": 1,
+			"trades": [{}],
+			"tradesId": 1,
+			"userId": "sms|601a986ad950a870a415e0a9",
+			"uses": 23
 		}
 	]
 }
