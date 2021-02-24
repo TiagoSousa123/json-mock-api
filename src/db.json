@@ -1,111 +1,115 @@
 {
-	"badge": {
-		"membershipPending": "4",
-		"notifications": "99",
-		"messages": "43"
-	},
-	"memberships": [
-		{
-			"active": true,
-			"agencies": [
-				{
-					"agencyId": 0,
-					"agencyName": "string",
-					"ig_handle": "string",
-					"ig_hashtag": "string"
-				},
-				{
-					"agencyId": 0,
-					"agencyName": "string",
-					"ig_handle": "string",
-					"ig_hashtag": "string"
-				}
-			],
-			"applicationComments": "auth0UserId",
-			"approvalComments": "string",
-			"approvalDate": "2021-02-13",
-			"creationDate": "2021-02-07",
-			"email": "",
-			"facebookToken": "sfr32r",
-			"igAccountType": "creator",
-			"igFollowersCount": 11111,
-			"igFollowsCount": 20000,
-			"igHandle": "jow",
-			"igMediaCount": 1300,
-			"igMediaTotalComments": 13300,
-			"igMediaTotalLikes": 2000,
-			"igUsername": "John",
-			"issueDate": "2021-02-08",
-			"issuerName": "some agency",
-			"issuerType": "AGENCY",
-			"lastModifiedDate": "2021-02-07",
-			"membershipId": 1,
-			"membershipModificationsId": 1,
-			"membershipStatus": "pending",
-			"name": "james",
-			"phoneNumber": "112333",
-			"portfolioUrl": "portfolio",
-			"profileId": 8,
-			"profilePictureUrl": "rqwrwq",
-			"profilesAgencies": 2,
-			"referralCodeId": "OK",
-			"tier": "NONE",
-			"tierSuggestionId": 1,
-			"trades": [{}],
-			"tradesId": 1,
-			"userId": "sms|601a986ad950a870a415e0a9",
-			"uses": 23
-		},
-		{
-			"active": true,
-			"agencies": [
-				{
-					"agencyId": 0,
-					"agencyName": "string",
-					"ig_handle": "string",
-					"ig_hashtag": "string"
-				},
-				{
-					"agencyId": 0,
-					"agencyName": "string",
-					"ig_handle": "string",
-					"ig_hashtag": "string"
-				}
-			],
-			"applicationComments": "auth0UserId",
-			"approvalComments": "string",
-			"approvalDate": "2021-02-13",
-			"creationDate": "2021-02-07",
-			"email": "",
-			"facebookToken": "sfr32r",
-			"igAccountType": "creator",
-			"igFollowersCount": 11111,
-			"igFollowsCount": 20000,
-			"igHandle": "jo",
-			"igMediaCount": 1300,
-			"igMediaTotalComments": 13300,
-			"igMediaTotalLikes": 2000,
-			"igUsername": "John Doe",
-			"issueDate": "2021-02-08",
-			"issuerName": "some agency",
-			"issuerType": "AGENCY",
-			"lastModifiedDate": "2021-02-07",
-			"membershipId": 1,
-			"membershipModificationsId": 1,
-			"membershipStatus": "pending",
-			"name": "james",
-			"phoneNumber": "112333",
-			"portfolioUrl": "portfolio",
-			"profileId": 8,
-			"profilePictureUrl": "rqwrwq",
-			"profilesAgencies": 2,
-			"referralCodeId": "Not OK",
-			"tier": "NONE",
-			"tierSuggestionId": 1,
-			"trades": [{}],
-			"tradesId": 1,
-			"userId": "sms|601a986ad950a870a415e0a9",
-			"uses": 23
-		}
-	]
+  "badge": {
+    "membershipPending": "4",
+    "notifications": "99",
+    "messages": "43"
+  },
+  "memberships": [
+    {
+      "active": true,
+      "agencies": [
+        {
+          "agencyId": 0,
+          "agencyName": "string",
+          "ig_handle": "string",
+          "ig_hashtag": "string"
+        },
+        {
+          "agencyId": 0,
+          "agencyName": "string",
+          "ig_handle": "string",
+          "ig_hashtag": "string"
+        }
+      ],
+      "applicationComments": "auth0UserId",
+      "approvalComments": "string",
+      "approvalDate": "2021-02-13",
+      "creationDate": "2021-02-07",
+      "email": "",
+      "facebookToken": "sfr32r",
+      "igAccountType": "creator",
+      "igFollowersCount": 11111,
+      "igFollowsCount": 20000,
+      "igHandle": "jow",
+      "igMediaCount": 1300,
+      "igMediaTotalComments": 13300,
+      "igMediaTotalLikes": 2000,
+      "igUsername": "John",
+      "issueDate": "2021-02-08",
+      "issuerName": "some agency",
+      "issuerType": "AGENCY",
+      "lastModifiedDate": "2021-02-07",
+      "membershipId": 1,
+      "membershipModificationsId": 1,
+      "membershipStatus": "pending",
+      "name": "james",
+      "phoneNumber": "112333",
+      "portfolioUrl": "portfolio",
+      "profileId": 8,
+      "profilePictureUrl": "rqwrwq",
+      "profilesAgencies": 2,
+      "referralCodeId": "OK",
+      "tier": "NONE",
+      "tierSuggestionId": 1,
+      "trades": [
+        {}
+      ],
+      "tradesId": 1,
+      "userId": "sms|601a986ad950a870a415e0a9",
+      "uses": 23
+    },
+    {
+      "active": true,
+      "agencies": [
+        {
+          "agencyId": 0,
+          "agencyName": "string",
+          "ig_handle": "string",
+          "ig_hashtag": "string"
+        },
+        {
+          "agencyId": 0,
+          "agencyName": "string",
+          "ig_handle": "string",
+          "ig_hashtag": "string"
+        }
+      ],
+      "applicationComments": "auth0UserId",
+      "approvalComments": "string",
+      "approvalDate": "2021-02-13",
+      "creationDate": "2021-02-07",
+      "email": "",
+      "facebookToken": "sfr32r",
+      "igAccountType": "creator",
+      "igFollowersCount": 11111,
+      "igFollowsCount": 20000,
+      "igHandle": "jo",
+      "igMediaCount": 1300,
+      "igMediaTotalComments": 13300,
+      "igMediaTotalLikes": 2000,
+      "igUsername": "John Doe",
+      "issueDate": "2021-02-08",
+      "issuerName": "some agency",
+      "issuerType": "AGENCY",
+      "lastModifiedDate": "2021-02-07",
+      "membershipId": 1,
+      "membershipModificationsId": 1,
+      "membershipStatus": "pending",
+      "name": "james",
+      "phoneNumber": "112333",
+      "portfolioUrl": "portfolio",
+      "profileId": 8,
+      "profilePictureUrl": "rqwrwq",
+      "profilesAgencies": 2,
+      "referralCodeId": "Not OK",
+      "tier": "NONE",
+      "tierSuggestionId": 1,
+      "trades": [
+        {}
+      ],
+      "tradesId": 1,
+      "userId": "sms|601a986ad950a870a415e0a9",
+      "uses": 23
+    }
+  ]
 }
